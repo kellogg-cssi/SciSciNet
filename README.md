@@ -7,9 +7,9 @@ You can refer to our paper "SciSciNet: A large-scale open data lake for the scie
 
 ## FAQ
 1) Is the CD5 index available in SciSciNet?\
-   **Yes!** The data is available at [Dropbox link](https://www.dropbox.com/scl/fo/8ig7zg8c7miam2mbfo57m/AP7ulT3sKK5mVjEVKviFCYo?rlkey=kudsi7yn81t64a27xjcyljc3c&dl=0).
+   **Yes!** The data is available at [Google Drive link](https://drive.google.com/file/d/1QTun5Mb8DYSOWRVOnhpi3mRzBrx1lLAX/view?usp=sharing).
 2) I want to obtain the linkage between MAG Paper ID and PubMed Identifier (PMID). Is this linkage available?\
-   **Yes!** The data is available at [Dropbox link](https://www.dropbox.com/scl/fo/7vy9j540siieummb3xsjo/AFr1yPPTclCNB9_0TYQdpWg?rlkey=g218n6bdq7idvbpaoxmw5m0ii&dl=0).
+   **Yes!** The data is available at [Google Drive link](https://drive.google.com/file/d/1SMCPGW3U14Fj-3tTRHpNMtedoDzefpyG/view?usp=sharing).
 3) I want to obtain the original MAG data, including the paper abstracts.\
    The data is available upon request.
 
